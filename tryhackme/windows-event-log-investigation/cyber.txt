@@ -1,0 +1,26 @@
+Windows Event Log Investigation
+
+Event ID investigated:
+4625
+
+Meaning:
+Failed account logon
+
+Date:
+10/6/2026 6:36:46 PM
+
+Account:
+xxxxxxxxx
+
+Logon Type:
+	2
+
+Failure Reason:
+Unknown user name or bad password.
+
+
+Source Network Address:
+xxxxxxxxxxxxxxxxxxxxxx
+
+What I learned:
+Event ID 4625 can be used to identify failed authentication attempts in Windows Security logs.
